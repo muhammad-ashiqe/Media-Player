@@ -23,23 +23,146 @@
       "imageLink": "https://m.media-amazon.com/images/M/MV5BYjEwMTMzM2QtYjdjYy00ZjEwLTk0NDQtNDBmNWIzM2Y3ZGQ2XkEyXkFqcGc@._V1_.jpg",
       "videoLink": "https://www.youtube.com/embed/VzT2xurZrbI",
       "id": 16
+    },
+    {
+      "caption": "Sitha Ram",
+      "imageLink": "https://indiaglitz-media.s3.amazonaws.com/telugu/home/sita-ramam-review-05.jpg",
+      "videoLink": "https://www.youtube.com/embed/UFpx4ha6hTE",
+      "id": 17
+    },
+    {
+      "caption": "Luca",
+      "imageLink": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/MANORAMAMAX/MOVIE/647eadaa7ec03c02b0159a93/images/750x750_Luca_125125_e0fdcf5a-156b-4bfb-96f1-8a5a0e4c4467.jpg?o=production",
+      "videoLink": "https://www.youtube.com/embed/IJQ8Upo3E8I",
+      "id": 18
+    },
+    {
+      "caption": "Vaashi",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/6/6c/Release_poster_of_Vaashi_%282022_film%29.jpeg",
+      "videoLink": "https://www.youtube.com/embed/Rx8DOPu8oAU",
+      "id": 19
+    },
+    {
+      "caption": "Premalu",
+      "imageLink": "https://i.redd.it/ldlskwrhinrc1.jpeg",
+      "videoLink": "https://www.youtube.com/embed/9_xMvx-vnJ0",
+      "id": 20
+    },
+    {
+      "caption": "Vidamuyarchi",
+      "imageLink": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_.jpg",
+      "videoLink": "https://www.youtube.com/embed/0nAvxmluHIM",
+      "id": 21
+    },
+    {
+      "caption": "Maharaaja",
+      "imageLink": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoLink": "https://www.youtube.com/embed/5tnc_R1I2xA",
+      "id": 22
+    },
+    {
+      "caption": "Leo",
+      "imageLink": "https://i.pinimg.com/736x/46/37/db/4637dbeccdf457d9086f4e19e3737863.jpg",
+      "videoLink": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "id": 23
+    },
+    {
+      "caption": "Surarai Potru",
+      "imageLink": "https://wallpapercave.com/wp/wp5711411.jpg",
+      "videoLink": "https://www.youtube.com/embed/hjuAufsWqs0",
+      "id": 24
     }
   ],
   "categories": [
     {
-      "categoryName": "English",
-      "allVideo": [],
+      "categoryName": "Malayalam",
+      "allVideo": [
+        {
+          "caption": "Vaashi",
+          "imageLink": "https://upload.wikimedia.org/wikipedia/en/6/6c/Release_poster_of_Vaashi_%282022_film%29.jpeg",
+          "videoLink": "https://www.youtube.com/embed/Rx8DOPu8oAU",
+          "id": 19
+        },
+        {
+          "caption": "Premalu",
+          "imageLink": "https://i.redd.it/ldlskwrhinrc1.jpeg",
+          "videoLink": "https://www.youtube.com/embed/9_xMvx-vnJ0",
+          "id": 20
+        },
+        {
+          "caption": "Kalaabhakkara",
+          "imageLink": "https://m.media-amazon.com/images/M/MV5BYjEwMTMzM2QtYjdjYy00ZjEwLTk0NDQtNDBmNWIzM2Y3ZGQ2XkEyXkFqcGc@._V1_.jpg",
+          "videoLink": "https://www.youtube.com/embed/VzT2xurZrbI",
+          "id": 16
+        },
+        {
+          "caption": "Luca",
+          "imageLink": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/MANORAMAMAX/MOVIE/647eadaa7ec03c02b0159a93/images/750x750_Luca_125125_e0fdcf5a-156b-4bfb-96f1-8a5a0e4c4467.jpg?o=production",
+          "videoLink": "https://www.youtube.com/embed/IJQ8Upo3E8I",
+          "id": 18
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Tamil",
+      "allVideo": [
+        {
+          "caption": "Surarai Potru",
+          "imageLink": "https://wallpapercave.com/wp/wp5711411.jpg",
+          "videoLink": "https://www.youtube.com/embed/hjuAufsWqs0",
+          "id": 24
+        },
+        {
+          "caption": "Leo",
+          "imageLink": "https://i.pinimg.com/736x/46/37/db/4637dbeccdf457d9086f4e19e3737863.jpg",
+          "videoLink": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+          "id": 23
+        },
+        {
+          "caption": "Thaarame",
+          "imageLink": "https://m.media-amazon.com/images/M/MV5BZGUzZmY2NDgtZmIwMC00ZDY1LTk4NmItYWU4MDlkZjk3ZWVhXkEyXkFqcGc@._V1_.jpg",
+          "videoLink": "https://www.youtube.com/embed/gB1gPmtDohY",
+          "id": 15
+        },
+        {
+          "caption": "Maharaaja",
+          "imageLink": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "videoLink": "https://www.youtube.com/embed/5tnc_R1I2xA",
+          "id": 22
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Favorites",
+      "allVideo": [
+        {
+          "caption": "Surarai Potru",
+          "imageLink": "https://wallpapercave.com/wp/wp5711411.jpg",
+          "videoLink": "https://www.youtube.com/embed/hjuAufsWqs0",
+          "id": 24
+        },
+        {
+          "caption": "Thaniye",
+          "imageLink": "https://i.scdn.co/image/ab67616d0000b27355f6f8be641399a5f283ff23",
+          "videoLink": "https://www.youtube.com/embed/l0yU-mcCM9I",
+          "id": 13
+        },
+        {
+          "caption": "Sitha Ram",
+          "imageLink": "https://indiaglitz-media.s3.amazonaws.com/telugu/home/sita-ramam-review-05.jpg",
+          "videoLink": "https://www.youtube.com/embed/UFpx4ha6hTE",
+          "id": 17
+        },
+        {
+          "caption": "Luca",
+          "imageLink": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/MANORAMAMAX/MOVIE/647eadaa7ec03c02b0159a93/images/750x750_Luca_125125_e0fdcf5a-156b-4bfb-96f1-8a5a0e4c4467.jpg?o=production",
+          "videoLink": "https://www.youtube.com/embed/IJQ8Upo3E8I",
+          "id": 18
+        }
+      ],
       "id": 3
-    },
-    {
-      "categoryName": "Tamil ",
-      "allVideo": [],
-      "id": 4
-    },
-    {
-      "categoryName": "Hindi ",
-      "allVideo": [],
-      "id": 6
     }
   ],
   "history": [
@@ -66,6 +189,36 @@
       "videoLink": "https://www.youtube.com/embed/VzT2xurZrbI",
       "time": "17-3-2025   11:57:23",
       "id": 5
+    },
+    {
+      "caption": "Nee illamal Naan illaye",
+      "videoLink": "https://www.youtube.com/embed/p7GmO8ewjmw",
+      "time": "18-3-2025   11:50:44",
+      "id": 6
+    },
+    {
+      "caption": "Nee illamal Naan illaye",
+      "videoLink": "https://www.youtube.com/embed/p7GmO8ewjmw",
+      "time": "18-3-2025   11:57:43",
+      "id": 7
+    },
+    {
+      "caption": "Nee illamal Naan illaye",
+      "videoLink": "https://www.youtube.com/embed/p7GmO8ewjmw",
+      "time": "18-3-2025   11:59:52",
+      "id": 8
+    },
+    {
+      "caption": "Vaashi",
+      "videoLink": "https://www.youtube.com/embed/Rx8DOPu8oAU",
+      "time": "19-3-2025   11:41:41",
+      "id": 9
+    },
+    {
+      "caption": "Vaashi",
+      "videoLink": "https://www.youtube.com/embed/Rx8DOPu8oAU",
+      "time": "19-3-2025   11:41:48",
+      "id": 10
     }
   ]
 }
