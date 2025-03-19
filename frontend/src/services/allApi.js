@@ -37,6 +37,14 @@ const getAllCategorys = async () => {
 const deleteCategory = async (id)=>{
   return await commonApi("delete",`${serverUrl}/categories/${id}`)
 }
+
+const getVideoWithid = async(id)=>{
+  return await commonApi("get",`${serverUrl}/videos/${id}`)
+}
+
+const updateCategory = async(id,updatedData)=>{
+  return await commonApi("put",`${serverUrl}/categories/${id}`,updatedData)
+}
 export {
   uploadVideo,
   fetchVideos,
@@ -46,5 +54,7 @@ export {
   deleteHistory,
   addCategory,
   getAllCategorys,
-  deleteCategory
+  deleteCategory,
+  getVideoWithid,
+  updateCategory
 };

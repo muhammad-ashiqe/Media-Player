@@ -56,11 +56,15 @@ const VideoCard = ({ image, title, video, id, setDeleteVideoStatus }) => {
     }
   };
 
-  // console.log(history)
+  const dragStarted=(e,id)=>{
+    console.log(`video with id : ${id} started dragging`)
+    e.dataTransfer.setData("VideoId",id)
+  }
+
 
   return (
     <>
-      <Card style={{ width: "18rem", marginTop: "20px" }}>
+      <Card style={{ width: "18rem", marginTop: "20px" }} draggable onDragStart={(e)=>dragStarted(e,id)}>
         <div
           className="img-container "
           style={{ width: "300px", height: "350px" }}
